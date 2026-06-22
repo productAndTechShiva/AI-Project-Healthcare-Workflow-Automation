@@ -121,8 +121,13 @@ This project was intentionally designed to demonstrate multiple AI concepts with
 ## Technology Stack
 Python, FastAPI, Ollama, Llama 3.2, React, TypeScript, Vite
 
-## Current Scope
+## My Contribution:
+* Defined workflow requirements and use cases
+* Designed AI-driven decision and routing logic
+* Developed frontend, backend and AI integration
+* Implemented prompt engineering, structured outputs and workflow automation
 
+## Current Scope
 ### Included
 * AI-powered workflow analysis
 * Structured AI outputs
