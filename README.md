@@ -15,7 +15,6 @@ Healthcare organizations often handle large volumes of patient and administrativ
 * Healthcare Operations Teams
 * Administrative Staff
 * Healthcare Technology Teams
-* Product Managers & Business Analysts
 
 ## Supported Request Types
 The application supports multiple healthcare workflow categories:
@@ -37,6 +36,27 @@ The application supports multiple healthcare workflow categories:
 * Billing Query - "Why was I charged twice for my recent visit?"
 * Medical Records Request - "I need copies of my medical records."
 
+## Key Features
+* Multi-request classification
+* Entity extraction
+* Priority scoring
+* Workflow decision generation
+* Department routing
+* Queue assignment
+* Ticket creation
+* Ticket summary generation
+* Workflow timeline visualization
+* Explainable AI output
+
+### Screenshots
+<img width="4922" height="1971" alt="combined_img" src="https://github.com/user-attachments/assets/864d6049-a447-4e71-8f0d-7a36bca94103" />
+
+
+## Business Impact
+* Reduces manual triage and routing effort
+* Improves consistency of workflow decisions
+* Accelerates ticket creation and department assignment
+* Demonstrates AI-powered workflow automation in healthcare operations
 
 ## End-to-End Workflow
 
@@ -77,25 +97,6 @@ Ticket Created
       ↓
 Emergency Department Queue
 ```
-
-## Key Features
-
-* Multi-request classification
-* Entity extraction
-* Priority scoring
-* Workflow decision generation
-* Department routing
-* Queue assignment
-* Ticket creation
-* Ticket summary generation
-* Workflow timeline visualization
-* Explainable AI output
-
-## Business Impact
-* Reduces manual triage and routing effort
-* Improves consistency of workflow decisions
-* Accelerates ticket creation and department assignment
-* Demonstrates AI-powered workflow automation in healthcare operations
 
 ## AI Concepts Demonstrated
 This project was intentionally designed to demonstrate multiple AI concepts within a single solution.
